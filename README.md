@@ -136,7 +136,3 @@ Destroying the Apple bean
 
 ---
 
-## 🔗 Connect with Me
-
-**Author**: *Shadab Rehan*
-**LinkedIn**: https://www.linkedin.com/in/shadabrehan
